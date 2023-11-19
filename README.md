@@ -1,6 +1,6 @@
-# welcome_patagonia-
+# welcome patagonia+
 
-New welcome page of Patagonia+
+New welcome page of P0atagonia+
 
 Visit us :  https://www.patagoniamas.com/welcome/welcome.html
 
